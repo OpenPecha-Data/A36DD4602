@@ -1,0 +1,19 @@
+segment_sources:
+  I12BB1F1B:
+    type: origin_type
+    relation: translation
+    language: en
+  IB4D1D137:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  917e95621e4f4940965d68f4f90871af:
+    I12BB1F1B: 45370d87c11a4f9d8e2b368ab574e47f
+    IB4D1D137: 661d459922204b7c8348316058208d24
+  e8f5a644fe1d4aa9a6718e718293eab4:
+    I12BB1F1B: d5fba52421df4cdea7cec7749d2756ef
+    IB4D1D137: 7c5516f8fb0a4a218cf261a0c3339994
+  e110335161c24e1280bbe751b24b073b:
+    I12BB1F1B: 41398f80cc68456abe29438d221a6fcb
+    IB4D1D137: 6a9b005ea55240aa92ec21b20b5304bf
